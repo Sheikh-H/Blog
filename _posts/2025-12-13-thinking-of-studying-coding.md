@@ -8,8 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [python, coding, courses, online, funded]
 author: Sheikh Hussain
 date: 2025-12-13 22:30:00 #2019-08-11 00:34:00 +0800 - this is how you would specify the time posted.
-# excerpt:
-categories: Python
+categories: [Blogging, cybersecurity] #main dir, sub dir
 ---
 
 At what point do we sit and tell ourselves to give over? When do we zoom out of perspective and take the path down 'reality'? My journey getting back into coding has been more difficult that it was when I was in uni studying. That's when it hit me...
