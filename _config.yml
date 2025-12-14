@@ -14,7 +14,7 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Blog Portfolio # the main title
+title: Cyber Blog # the main title
 
 tagline: Here, you'll find all my posts on re-learning to code # it will display as the subtitle
 
@@ -99,7 +99,7 @@ theme_mode: #[light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/img/reddit-avatar.png"
+avatar: "/img/reddit-avatar.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
