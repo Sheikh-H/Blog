@@ -32,5 +32,7 @@ media_subpath: /path/to/subpath  # This is useful for linking specific media fil
 
 # Optional post for references to external sources or authors
 external_link: "http://example.com"  # Link to external references or related content
-
+# vscode ➜ /workspaces/Blog (main) $ jekyll serve --watch --config _config.yml,_config_dev.yml --drafts --force_polling -- use this for live preview of edits
 ---
+
+
