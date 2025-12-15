@@ -13,9 +13,10 @@
     line-height: 1.5rem;
     padding: 0.6rem 0;
 
-    /* dot */
+    /* Bullet Point List */
     &::before {
-      background: #999999;
+      background: green;
+      // background: #999999;
       width: 5px;
       height: 5px;
       border-radius: 50%;
@@ -46,6 +47,7 @@
 /* tag icon */
 #page-tag h1 > i {
   font-size: 1.2rem;
+  color: green;
 }
 
 #page-category h1 > i {

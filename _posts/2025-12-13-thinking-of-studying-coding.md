@@ -10,7 +10,6 @@ author: Sheikh Hussain
 date: 2025-12-13 22:30:00 #2019-08-11 00:34:00 +0800 - this is how you would specify the time posted.
 categories: [Blogging, cybersecurity] #main dir, sub dir
 ---
-
 At what point do we sit and tell ourselves to give over? When do we zoom out of perspective and take the path down 'reality'? My journey getting back into coding has been more difficult that it was when I was in uni studying. That's when it hit me...
 
 I bet you're here because you too are trying to learn coding and all about how the world works, online. I bet you've got the keen eye for details and love sitting in your creative spark with a solution to build some program that'll solve some problem. The problem you face is that, you don't know how to build a program.

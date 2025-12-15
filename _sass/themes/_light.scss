@@ -12,14 +12,16 @@
   --label-color: #585858;
   --blockquote-border-color: #eeeeee;
   --blockquote-text-color: #757575;
-  --link-color: #0056b2;
+  --link-color: green;
+  // --link-color: #0056b2;
   --link-underline-color: #dee2e6;
   --button-bg: #ffffff;
   --btn-border-color: #e9ecef;
   --btn-backtotop-color: #686868;
   --btn-backtotop-border-color: #f1f1f1;
   --checkbox-color: #c5c5c5;
-  --checkbox-checked-color: #07a8f7;
+  --checkbox-checked-color: green;
+  // --checkbox-checked-color: #07a8f7;
   --img-bg: radial-gradient(circle, rgb(255 255 255) 0%, rgb(239 239 239) 100%);
   --shimmer-bg: linear-gradient(
     90deg,
@@ -29,7 +31,9 @@
   );
 
   /* Sidebar */
-  --site-title-color: rgb(113 113 113);
+  --site-title-color: green;
+
+  // --site-title-color: rgb(113 113 113);
   --site-subtitle-color: #717171;
   --sidebar-bg: #f6f8fa;
   --sidebar-border-color: #efefef;
@@ -53,10 +57,14 @@
   --btn-paginator-hover-color: var(--sidebar-bg);
 
   /* Posts */
-  --toc-highlight: #0550ae;
+  --toc-highlight: green;
+
+  // --toc-highlight: #0550ae;
   --toc-popup-border-color: lightgray;
   --btn-share-color: gray;
-  --btn-share-hover-color: #0d6efd;
+  --btn-share-hover-color: green;
+
+  // --btn-share-hover-color: #0d6efd;
   --card-bg: white;
   --card-hover-bg: #e2e2e2;
   --card-shadow: rgb(104 104 104 / 5%) 0 2px 6px 0,
@@ -79,6 +87,7 @@
   --prompt-danger-icon-color: #df3c30;
 
   /* Tags */
+
   --tag-border: #dee2e6;
   --tag-shadow: var(--btn-border-color);
   --tag-hover: rgb(222 226 230);
@@ -137,7 +146,9 @@
   .highlight .kr,
   .highlight .kt,
   .highlight .kv {
-    color: #cf222e;
+    color: green;
+
+    // color: #cf222e;
   }
 
   .highlight .gr {
@@ -145,24 +156,33 @@
   }
 
   .highlight .gd {
-    color: #82071e;
+    color: green;
+    // color: #82071e;
     background-color: #ffebe9;
   }
 
   .highlight .nb {
-    color: #953800;
+    color: green;
+
+    // color: #953800;
   }
 
   .highlight .nc {
-    color: #953800;
+    color: green;
+
+    // color: #953800;
   }
 
   .highlight .no {
-    color: #953800;
+    color: green;
+
+    // color: #953800;
   }
 
   .highlight .nn {
-    color: #953800;
+    color: green;
+
+    // color: #953800;
   }
 
   .highlight .sr {
@@ -183,7 +203,9 @@
   }
 
   .highlight .kc {
-    color: #0550ae;
+    color: green;
+
+    // color: #0550ae;
   }
 
   .highlight .l,
@@ -196,27 +218,33 @@
   .highlight .il,
   .highlight .mo,
   .highlight .mx {
-    color: #0550ae;
+    color: green;
+    // color: #0550ae;
   }
 
   .highlight .sb {
-    color: #0550ae;
+    color: green;
+    // color: #0550ae;
   }
 
   .highlight .bp {
-    color: #0550ae;
+    color: green;
+    // color: #0550ae;
   }
 
   .highlight .ne {
-    color: #0550ae;
+    color: green;
+    // color: #0550ae;
   }
 
   .highlight .nl {
-    color: #0550ae;
+    color: green;
+    // color: #0550ae;
   }
 
   .highlight .py {
-    color: #0550ae;
+    color: green;
+    // color: #0550ae;
   }
 
   .highlight .nv,
@@ -224,21 +252,25 @@
   .highlight .vg,
   .highlight .vi,
   .highlight .vm {
-    color: #0550ae;
+    color: green;
+    // color: #0550ae;
   }
 
   .highlight .o,
   .highlight .ow {
-    color: #0550ae;
+    color: green;
+    // color: #0550ae;
   }
 
   .highlight .gh {
-    color: #0550ae;
+    color: green;
+    // color: #0550ae;
     font-weight: bold;
   }
 
   .highlight .gu {
-    color: #0550ae;
+    color: green;
+    // color: #0550ae;
     font-weight: bold;
   }
 
@@ -253,7 +285,9 @@
   .highlight .sx,
   .highlight .s1,
   .highlight .ss {
-    color: #0a3069;
+    color: green;
+
+    //color: #0a3069;
   }
 
   .highlight .nd {
