@@ -31,5 +31,5 @@ _config_dev.yml
 _drafts/*
 _drafts/
 
-/docs
-/doc/*
+_docs/
+_docs/*
