@@ -16,3 +16,5 @@ gem "wdm", "~> 0.2.0", :platforms => [:windows,] #:mingw, :x64_mingw, :mswin
 gem 'bigdecimal'
 
 gem 'jekyll'
+
+gem 'jekyll-sitemap'
