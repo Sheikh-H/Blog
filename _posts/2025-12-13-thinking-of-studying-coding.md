@@ -6,27 +6,28 @@ description: >-
 tags: [python, coding, courses, online, funded]
 author: Sheikh Hussain
 date: 2025-12-13 22:30:00 +0000 #2019-08-11 00:34:00 +0800 - this is how you would specify the time posted.
-categories: [Blogging, python,] #main dir, sub dir
-tags: [coding, easy]   # Modify with your own tags
+categories: [Blogging, Coding, Courses, Online] #main dir, sub dir
+tags: [is easy,is not easy, how to, study, coding]   # Modify with your own tags
 pin: true
 math: false
 mermaid: false
 
 # Post image or media (optional)
 image:
-  path: /assets/img/post_imgs/thinking-of-coding/studying-tech.jpg  # Add image path if your post has an image
+  path: /thinking-of-coding/studying-tech.jpg  # Add image path if your post has an image
   #lqip: data:image/...           # Add the low-quality image placeholder (base64) if needed
-  alt: A person studying coding       # Image alt text for accessibility
-share_image: /assets/img/post_imgs/thinking-of-studying-coding/share-image.jpg  # Share image for social media
+  alt: Image From Pexels - Studying Coding       # Image alt text for accessibility
+share_image: /thinking-of-coding/share-image.jpg  # Share image for social media
 
 
 # Optional for rendering with Liquid (use if needed for custom rendering)
 render_with_liquid: false  # Set to true if you want to disable default Markdown rendering
 
 # Optional post for media path
-#media_subpath: /assets/mycv.pdf  # This is useful for linking specific media files like PDFs or external content
-
+media_subpath: /assets/img/posts/  # This is useful for linking specific media files like PDFs or external content
 ---
+
+
 At what point do we sit and tell ourselves to give over? When do we zoom out of perspective and take the path down 'reality'? My journey getting back into coding has been more difficult that it was when I was in uni studying. That's when it hit me...
 
 I bet you're here because you too are trying to learn coding and all about how the world works, online. I bet you've got the keen eye for details and love sitting in your creative spark with a solution to build some program that'll solve some problem. The problem you face is that, you don't know how to build a program.
