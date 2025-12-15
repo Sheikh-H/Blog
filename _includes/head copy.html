@@ -13,10 +13,10 @@
     {% seo title=false %}
   {%- endcapture -%}
 
-  <!-- Setup Open Graph and Twitter Image -->
+  <!-- Setup Open Graph image -->
 
-  {% if page.share_image %}
-    {% assign src = page.share_image | default: page.image.path %}
+  {% if page.image %}
+    {% assign src = page.image.path | default: page.image %}
 
     {% unless src contains '://' %}
       {%- capture img_url -%}
