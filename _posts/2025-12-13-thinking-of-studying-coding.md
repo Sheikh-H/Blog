@@ -2,7 +2,7 @@
 layout: post
 title: Ever Thought About Learning To Code?
 description: >-
-  I sat down to teach myself to code again, after 12 months of endeavour this is what I can tell you...
+  I sat down to teach myself to code again, after 12 months of endeavour, this is what I can tell you...
 tags: [python, coding, courses, online, funded]
 author: Sheikh Hussain
 date: 2025-12-13 22:30:00 +0000 #2019-08-11 00:34:00 +0800 - this is how you would specify the time posted.
@@ -15,7 +15,7 @@ mermaid: false
 image:
   path: /thinking-of-coding/studying-tech.jpg  # Add image path if your post has an image
   #lqip: data:image/...           # Add the low-quality image placeholder (base64) if needed
-  alt: Image From Pexels - Studying Coding       # Image alt text for accessibility
+  alt: Image From Pexels.com - Studying Coding       # Image alt text for accessibility
 share_image: /thinking-of-coding/share-image.jpg  # Share image for social media
 # Optional for rendering with Liquid (use if needed for custom rendering)
 render_with_liquid: false  # Set to true if you want to disable default Markdown rendering
@@ -23,9 +23,13 @@ render_with_liquid: false  # Set to true if you want to disable default Markdown
 media_subpath: /assets/img/posts/  # This is useful for linking specific media files like PDFs or external content
 ---
 
-You've probably clicked on this post because, like me, you want to learn something **new**. You're probably a 'tech enthusiast' or better yet you just want to upskill - Well, good news for you, I've got some insights that you might relate to. In a world where almost everything uses some form of technology or mechanics we should be learning how it all works. 
+You've probably clicked on this post because, like me, you want to learn something **new**. You're either a tech enthusiast or here because you've recently taken liking to understand how the online world works.
 
-dsfads
+
+
+In a world where almost everything uses some form of technology or mechanics we should be learning how it all works. 
+
+
 
 #### References:
 <!-- Markdown supports multiple footnotes in one post. Here's one[^f1], another[^f2], and a third[^f3]. -->
