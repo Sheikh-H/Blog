@@ -30,7 +30,8 @@ But as everyday people, a question naturally arises:
 
 What can we do that allows us to use the *same tools* to create something meaningful — or even profitable?
 
-We constantly see headlines about blue-chip organisations making breakthroughs using data, automation, or artificial intelligence to “transform your *virtual* experience.”
+We constantly see headlines about blue-chip organisat
+ions making breakthroughs using data, automation, or artificial intelligence to “transform your *virtual* experience.”
 But what does that *actually* mean for us?
 
 These were the exact questions that lived rent-free in my mind for years. And if you’re reading this, chances are - you’ve thought about them too.
@@ -114,7 +115,7 @@ For me, the answer was clear: **Python**.
 
 I had previously learned **C#** and other object-oriented languages during college and university, but Python felt like the missing piece — the language that finally *clicked*.
 
-🔗 https://www.python.org
+🔗 <a href = "https://www.python.org">https://www.python.org<a>
 
 Python is widely regarded as:
 
@@ -138,7 +139,7 @@ With Python, you can build:
 
 And with AI tools like **ChatGPT** acting as a personal tutor, learning has never been more accessible.
 
-🔗 https://chat.openai.com
+🔗 <a href = "https://chat.openai.com">https://chat.openai.com</a>
 
 At some point, something interesting happens:
 You stop thinking about syntax — and start thinking about **solutions**.
@@ -184,7 +185,7 @@ As I write this, I'm still learning how to create a structured learning program 
 
 This repository was a game-changer:
 
-🔗 https://github.com/Asabeneh/30-Days-Of-Python
+🔗 <a href="https://github.com/Asabeneh/30-Days-Of-Python">https://github.com/Asabeneh/30-Days-Of-Python</a>
 
 It takes you from absolute beginner to near entry-level in 30 days. By the end, I understood Python better than I had after completing a Level 2 coding course.
 
@@ -192,7 +193,7 @@ It takes you from absolute beginner to near entry-level in 30 days. By the end, 
 
 Once you've got the basics, course creators like Mosh Hamedani become incredibly valuable.[^f1]
 
-🔗 https://www.youtube.com/@programmingwithmosh
+🔗 <a href="https://www.youtube.com/@programmingwithmosh">https://www.youtube.com/@programmingwithmosh</a>
 
 His Python course is beginner-friendly, thorough, and affordable — roughly the price of a few takeaway meals.
 
@@ -254,11 +255,11 @@ That understanding compounds over time.
 
 W3Schools
 
-🔗 https://www.w3schools.com - Brilliant for HTML, CSS, and quick references.
+🔗 <a href="https://www.w3schools.com">https://www.w3schools.com</a> - Brilliant for HTML, CSS, and quick references.
 
 GitHub
 
-🔗 https://github.com - Explore repositories slowly. One function at a time.
+🔗 <a href="https://github.com">https://github.com</a> - Explore repositories slowly. One function at a time.
 
 Books
 
@@ -266,7 +267,7 @@ Visit your local library or grab a beginner book. - This will help set the conte
 
 Khan Academy
 
-🔗 https://www.khanacademy.org - Ideal for refreshing maths and logic skills.
+🔗 <a href = "https://www.khanacademy.org">https://www.khanacademy.org</a> - Ideal for refreshing maths and logic skills.
 
 Online Communities / Forums
 
