@@ -13,10 +13,10 @@ math: false
 mermaid: false
 # Post image or media (optional)
 image:
-  path: /thinking-of-coding/studying-tech.jpg  # Add image path if your post has an image
+  path: /122025/studying-tech.jpg  # Add image path if your post has an image
   #lqip: data:image/...           # Add the low-quality image placeholder (base64) if needed
   alt: Image From Pexels.com - Studying Coding       # Image alt text for accessibility
-share_image: /thinking-of-coding/share-image.jpg  # Share image for social media
+share_image: /122025/share-image.jpg  # Share image for social media
 # Optional for rendering with Liquid (use if needed for custom rendering)
 render_with_liquid: false  # Set to true if you want to disable default Markdown rendering
 # Optional post for media path
