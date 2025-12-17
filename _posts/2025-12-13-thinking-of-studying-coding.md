@@ -115,7 +115,7 @@ For me, the answer was clear: **Python**.
 
 I had previously learned **C#** and other object-oriented languages during college and university, but Python felt like the missing piece — the language that finally *clicked*.
 
-🔗 <a href = "https://www.python.org"target = "_blank">https://www.python.org<a>
+🔗 <a href = "https://www.python.org" target = "_blank">https://www.python.org</a>
 
 Python is widely regarded as:
 
