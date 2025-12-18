@@ -33,3 +33,6 @@ _drafts/
 
 _docs/
 _docs/*
+
+#exclude this file:
+.nojekyll
