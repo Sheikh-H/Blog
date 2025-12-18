@@ -38,7 +38,7 @@ Below you'll find a list of all what is taught and a link to the page of me expl
     <tr>
     </tr>
     <tr>
-      <td>🔗 Day 2 - Variables & Builtin Functions</td>
+      <td>Day 2 - Variables & Builtin Functions</td>
       <td>Understanding variables, data types, naming conventions, and using built-in functions like `print()`, `len()`, `type()`, and `input()`.</td>
     </tr>
       <tr>
