@@ -6,15 +6,12 @@ gem "jekyll-theme-chirpy", "~> 7.4", ">= 7.4.1"
 
 gem "html-proofer", "~> 5.0", group: :test
 
-platforms :mingw, :x64_mingw, :mswin, :windows, :jruby do
+platforms :windows, :jruby do # :mingw, :x64_mingw, :mswin - deprecated
   gem "tzinfo", ">= 1", "< 3"
   gem "tzinfo-data"
 end
 
-gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin, :windows]
-
-
-gem "html-proofer", "~> 5.0", group: :test
+gem "wdm", "~> 0.2.0", :platforms => [:windows] #:mingw, :x64_mingw, :mswin - deprecated
 
 gem 'bigdecimal'
 
@@ -22,3 +19,4 @@ gem 'jekyll-sitemap'
 
 gem 'ffi'
 gem 'nokogiri'
+gem "jekyll-redirect-from"
