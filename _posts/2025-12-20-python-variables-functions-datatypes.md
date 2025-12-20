@@ -1,0 +1,279 @@
+---
+layout: post
+title: Python Variables & Builtin Functions, How They work, and What They Do.
+description: >-
+  As part of the second day on the 30DaysOfPython repository, I'll write my understanding on variables and builtin functions with a basic description of what data types are also.
+author: Sheikh Hussain
+date: 2025-12-20 18:50:00 +0000
+categories: [Python, Courses]
+tags: [python, programming, course, 30days, day2, variables, builtin functions,]
+pin: false
+math: false
+mermaid: false
+image:
+  path: 012026/python_day2.jpg  
+# lqip: data:image/...           
+  alt: Image from Pexels - Python Programming
+render_with_liquid: false 
+media_subpath: /assets/img/posts/
+---
+
+For those who have just joined, welcome to my series on learning Python programming. I'm diving back into coding and software development. If you've come here to explore what we discover for Day 2 in the 30 Days Of Python course by Asabeneh[^f1], we've got a lot to discuss.
+
+
+## Introduction to Variables in Python
+To begin this post I'll go on to talk about what I've learnt about Variables in Python. It's important to know that the term variables is widely used between developers and it's not strictly only for Python programming language. You will find variables used in almost all programming languages.
+
+Variables act as placeholders for storing information. When you declare one, Python allocates a location in the computers memory to hold the data, which you can access using the variable name. When declaring a variable, we would use a principle to create a variable name that is accepted by Python which is referred to as, *naming conventions*[^f2].
+
+## Using Variables
+
+By now we should have already gone over how to load a development environment on your device to start coding with Python.
+
+>  If you haven't yet installed both Python and VSCode, read this post: [Introduction To Python](https://sheikh-h.github.io/Blog/posts/python-day1/)
+{: .prompt-info }
+
+I'll use actual code examples to show you how you can, a) create a variable and store information in there, then b) use that variable.
+
+```python
+# Creating a variable:
+number_1 = 5
+number_2 = 5
+```
+This is the simplest way to create variables. We now have two variables storing integers (whole numbers) in our program.
+
+We can now go on to use `number_1` and `number_2` to perform functions or operations with them in our Python Terminal or VSCode.
+
+## Naming Conventions for Variables in Python
+Before we go on further, I must explain the Python Naming Convention or rules. Some names are allowed while others will cause errors.
+
+Here is a comprehensive guideline to creating a Python Variable with the right naming conventions being used:
+
+- Must not **start** with a number
+- Must not contain any **special characters**
+- **Can** be alpha-numeric (letters & numbers) and have underscores
+
+> Valid uses:
+- num_1
+- Num_1
+- nuM_1
+{: .prompt-tip }
+
+> Invalid uses:
+- 1_num
+- 1&num
+- 8$£%$5NUMBER
+{: .prompt-danger }
+
+This naming convention we've used above is recognised as 'snake case' because the format used here, is to create variables using words that relate to the information stored, and used underscores to separate each word.
+
+In camel case we would capitalise the beginning of each word like `Camel_Case` but here, we do `snake_case` and that's the correct method for Python.
+
+## Performing Functions
+
+Now I've learnt the basics on creating variables, I want to be able to build functions or use those variables to do something. For this, we'll resort to using simple maths to get ourselves in the right direction for using variables.
+
+In our Python script or terminal let's go on ahead and use those variables:
+
+```python
+# Creating a variable:
+number_1 = 5
+number_2 = 5
+
+# Our function:
+print(number_1 + number_2)
+
+#Output:
+10
+```
+There we have it!
+
+That's my first piece of code and it works just well. There are a few nuances that I won't explain just yet, as they're covered later in the series.
+
+The key information that we want to think on here is that we've created some variables, we've then told our Python script what to do with them. Finally, we've then had the correct output. 
+
+This is also the generalised view of *how* we would code even with using Classes and Objects. Following Python's Programming Logic, this is how you would typically write code too.
+
+1. Declare variables.
+2. Create functions that use those variables.
+3. Check the output and confirm.
+4. Refactor the code for improvements.
+
+This might look something similar to what you have seen before when it comes to a Systems Development Lifecycle but we can use the analogy here in coding too.
+
+## What can we store in variables?
+
+The topic goes on to succinctly explain what you can store using variables. What I found useful to think here was, anything.
+
+A variable, at its core, serves the purpose of holding data or information. Therefore, we can store whatever we want.
+
+You can create a variable to hold a unicorn - if you were able to physically do that but you get the gist.
+
+With that said, the though what you can store in variables isn't necessarily restrictive. I need to still know *what* we can store in there, which leads to the topic of Data Types.
+
+### What are Data Types?
+There are two umbrella terms for Data Types that we need to famialiarise ourselves with. 
+
+1. Primitive Data Types (Basic)
+2. Abstract Data Types (Advanced)
+
+At this point in time of my learning, I want to discuss with yourselves the first.
+
+Primitive data types are the most basic, built-in types that a programming language provides.
+
+These are things like, in Python: 
+Strings, Integers, Floats, Boolean, Lists and, Complex numbers (We'll discuss this later).
+
+Excluding complex numbers, let me give you an example of what I've learnt on the basic data types so far.
+
+- **Integers**
+  - These are referred to as being whole numbers and can be either positive or negative.
+- **Strings**
+  - Strings hold text and can contain any special characters. Their primary purpose is often to display or output information, like with the `print()` function. To declare strings you would use something called a **string notation** which are used at the start and end of a string. There are a few and they perform the same function, just slightly differently from each other.
+  1. Single quotations e.g: `'string here'`
+  2. Double quotations e.g: `"string here"`
+  3. Triple quotations e.g: `"""Multi-Line string here"""` or `'''Multi-Line string here '''`
+- **Floats**
+  - Floats are numbers with decimal points and is used for accuracy when it comes to computing algorithms, performing math functions and etc.
+- **Boolean**
+  - These are Truthy or Falsy data types that you store for a variable so that variable could have a condition that sets it or something to being True or False when used.
+- **Complex Numbers**
+  - These are numbers that we use to perform another function with, like plotting marks on a graph 
+
+
+```python
+#Example:
+is_light_on = False
+print(is_light_on)
+
+#Output:
+'False'
+```
+
+- **Lists**
+  - This is a topic that we will go over in more depth later but to explain it at a high-level, just think of your ordinary lists as you would write down for anything in our daily lives. We would use the same principles here when creating one in Python. There are 3 main types of lists; Lists, Sets, Tuples, and Dictionaries. We'll be discussing them in more detail on [Day 5](day5)
+
+
+> There is a topic called **List Comprehension** that uses a list data type to make an array/list of information *built* from a function. I'll be learning about this on [Day 13](Day13).
+{: .prompt-tip}
+
+## Using Different Data Types
+
+Now that I've learnt what the basic types of data I have access to when using Python. I want to now go on ahead and provide some examples of me using them.
+
+This would help clear up a lot of information gaps, if I have left any, and will also help with understanding the concept better.
+
+```python
+#Variables:
+
+var_1 = 5
+var_2 = '5'
+# The difference in the two variables above, 
+# though they look to be storing the same data, 
+# is that one has an integer, 
+# the other has a string which is declared 
+# using string notation.
+
+print(var_1 + var_2)
+#Output:
+#Traceback (most recent call last):
+#  File "<python-input-2>", line 1, in <module>
+#    print(var_1 + var_2)
+#          ~~~~~^~~~~~
+#TypeError: unsupported operand type(s) for +: 'int' and 'str'
+```
+
+The example here outputs an error into the terminal because Python won't be able to perform such a function as it's trying to use a arithmetic operation on two different data types that don't support it. 
+
+It's a good time also, to get used to reading error messages to then go on and learn **debugging** which is where you go into your code and fix errors to get it working right.
+
+With that example out the way which helps imagine the different methods you can use to build using different data types. 
+
+Let me use an example similar to that which is used in the main course I'm using.
+
+```python
+first_name = 'Sheikh' #string
+surname = 'Hussain' 
+age = 9743 # integer
+is_learning_python = True # boolean
+hobbies = ['Swimming','Learning', 'Coding'] # list
+address = {
+  'door_num': 97320,
+  'street':'Yelander Street',
+  'town':'Paper Town',
+  'city':'Dorchester',         # dictionary
+  'postcode':'YS15 1TD',
+  'country':'UK',
+}
+
+#Here I have used as many data types I could to get myself comfortable with using them.
+```
+
+> You can go on ahead and do the same on your own Python script and play around with some of the data sets there. Try making your own or use different data types for each!
+{: .prompt-tip}
+
+We don't want to go too deep into this just yet. For now, let's use a function to check the type of each variable we create and the data we store there.
+
+```python
+first_name = 'Sheikh' 
+surname = 'Hussain' 
+age = 9743 
+is_learning_python = True
+hobbies = ['Swimming','Learning', 'Coding'] 
+address = {
+  'door_num': 97320,
+  'street':'Yelander Street',
+  'town':'Paper Town',
+  'city':'Dorchester',       
+  'postcode':'YS15 1TD',
+  'country':'UK',
+}
+
+print(type(first_name)) #Output: str (string)
+print(type(surname)) #Output: 
+print(type(age)) #Output: int (integer)
+print(type(is_learning_python)) #Output: bool (boolean)
+print(type(hobbies)) #Output: list
+print(type(address)) #Output: dict (dictionary)
+print(address['door_num']) #Output: 97320 - Again, don't worry on this, we'll learn more on it later
+print(type(address['door_num'])) #Output: int
+```
+
+We could go on ahead and have each variable be printed as we did before, but for the sake of me keeping this topic as concise as possible so as to not bore you, I'll exclude that.
+
+Now, when it comes to variables and data types, this is pretty much it. Again, there are some bits that are explained a little later in the course and some bits that require for me to do some additional reading like complex numbers. Primary focus for now is to go over the course content and write about them.
+
+Before I close the topic there is one last element mentioned in this module. Which is built-in functions.
+
+## What are built-in functions
+
+Similar to primitive data types, Python has a large library of built-in functions that you can use without importing any libraries or modules. 
+
+By this point in learning the fundamentals behind Python programming, I would say it's not absolutely imperative that we learn all the functions as there's that many. 
+
+However, it's a good idea to get a feel of what we have access to in Python's builtin functions library and what some of them do. 
+
+> Visit 👉 [Python's Builtin Functions Documentation](https://docs.python.org/3.9/library/functions.html) to get a comprehensive list of all the functions
+{: .prompt-tip}
+
+To those who are new to coding, `print()` is a builtin function and you should have by now, already become comfortable using that.
+
+I'll include the image here from the official documentation to help with a basic overview.
+
+<figure>
+  <img src="https://i.sstatic.net/O0eOZ.png" alt="Python's Builtin Functions" loading="lazy">
+  <figcaption>Image from Stack Overflow</figcaption>
+</figure>
+
+We'll explore most of these functions through the rest of the series.
+
+## Summary
+
+Let's go over what we've been able to learn so far. We know what a variable is, how to declare/create a variable, what naming convention is best to use. We have also learnt about primitive data types, what they are and how they do. Finally, we have also gone over some basic functions and creating our own maths function using the `print()` function.
+
+Needless to say, there are many other things that I have also learnt and might not have included. As a reader, depending on your experience level, I'd love to hear your thoughts on how I could improve this post.
+
+### Footnote:
+[^f1]: [30 Days Of Python - Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python)  
+
+[^f2]: [Python Variables - Future Learn](https://www.futurelearn.com/info/courses/introduction-to-programming-with-python-fourth-rev-/0/steps/264867#:~:text=A%20variable%20is%20a%20placeholder,data%20is%20stored%20in%20memory.)  

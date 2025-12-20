@@ -14,4 +14,4 @@ Here, you’ll find posts about what I’m learning, the latest tech trends, and
 
 When I’m not coding, you’ll find me **geeking out over the latest gadgets 📱, socialising 🗣️, golfing ⛳, or trying delicious food 🍣**.
 
-Dive in, explore, and maybe even share a laugh 😂. Curious about my work? Check out my portfolio through the tabs above!
+Dive in, explore, and maybe even share a laugh 😂. Curious about my work? Check out my portfolio through the tabs on the left! 👈
