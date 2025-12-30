@@ -6,7 +6,7 @@ description: >-
 tags: [python, coding, courses, online, funded]
 author: Sheikh Hussain
 date: 2025-12-13 22:30:00 +0000 #2019-08-11 00:34:00 +0800 - this is how you would specify the time posted
-categories: [Studying Coding, Python] #main dir, sub dir
+categories: [Learning Journal, Coding] #main dir, sub dir
 tags: [study, studying, coding, learning, technology, python, programming]   # Modify with your own tags
 pin: true
 math: false

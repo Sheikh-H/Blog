@@ -5,7 +5,7 @@ description: >-
   It’s time to sharpen my writing, return to coding, and document the journey—one lesson at a time. This blog was made as an extension to my portfolio where I can demonstrate my learning. No download links will be used.
 author: Sheikh Hussain
 date: 2025-12-17 19:27:00 +0000
-categories: [Blogging, Intro]
+categories: [Blog, Intro]
 tags: [blogging, learning, journal, coding, writing, reading, tech]
 pin: true
 math: false
@@ -17,18 +17,18 @@ render_with_liquid: false
 media_subpath: /assets/img/posts/
 ---
 
-I’ve never been someone who *loved* writing.
+I’ve never been someone who _loved_ writing.
 
-Unless I was taking notes, messy and fragmented notes, on whatever I happened to be studying at the time. However,  I loved reading great writing… but I couldn’t *produce* it.
+Unless I was taking notes, messy and fragmented notes, on whatever I happened to be studying at the time. However, I loved reading great writing… but I couldn’t _produce_ it.
 
 With a **newfound drive to return to coding**, I realised something important:
 
-> If I truly wanted to learn, I needed to *document the process*.
+> If I truly wanted to learn, I needed to _document the process_.
 
 So, here we are.
 
 I don’t know if this will work. **But** I do know one thing—  
-*if I can teach it, I can learn it better.*
+_if I can teach it, I can learn it better._
 
 ---
 
@@ -36,15 +36,15 @@ I don’t know if this will work. **But** I do know one thing—
 
 The idea of blogging has always intrigued me—especially through the lens of **copywriting**, **digital marketing**, and **direct-response advertising**.
 
-The ability to influence someone *from behind a screen* is mind-bending.
+The ability to influence someone _from behind a screen_ is mind-bending.
 
-It’s a skill that’s existed for as long as advertising itself, and organisations pay *serious money* for people who can do it well.
+It’s a skill that’s existed for as long as advertising itself, and organisations pay _serious money_ for people who can do it well.
 
 Great marketers build **sales funnels**.  
-Elite copywriters then bring those funnels *to life* using nothing but words.
+Elite copywriters then bring those funnels _to life_ using nothing but words.
 
 It’s a rare skill.  
-But it’s also one that can be *trained*.
+But it’s also one that can be _trained_.
 
 I’ve always known I had a creative side, yet I lacked the vocabulary—and the grammatical confidence—to write at a copywriter’s level.
 
@@ -59,13 +59,13 @@ What I wanted was simple:
 
 Coding is vast.
 
-*Massive*, actually.
+_Massive_, actually.
 
 There’s an overwhelming amount of information you’re expected to understand—if not outright memorise. And while I’d consider myself fairly good at recalling information, I knew this approach wouldn’t scale.
 
 I needed a better system.
 
-Something that would let me stop *passively taking notes* and start *actively thinking*.
+Something that would let me stop _passively taking notes_ and start _actively thinking_.
 
 That’s when the idea hit me:
 
@@ -84,25 +84,25 @@ Here’s the kicker:
 Spending years in sales helped me more than I realised. The only real difference between speaking and writing?
 
 You can **iterate** through writing.  
-You *can’t* do that with speech.
+You _can’t_ do that with speech.
 
 That insight alone made something click for me:
 
 > Improving my writing would inevitably improve my speaking.
 
-And that’s a win on *every* front.
+And that’s a win on _every_ front.
 
 ---
 
 ## Why Blog About Coding?
 
-I’m an entry-level coder—*barely*—with around **12 months of independent research**, not including my formal studies.
+I’m an entry-level coder—_barely_—with around **12 months of independent research**, not including my formal studies.
 
 There’s no chance I’ll remember everything.
 
 So instead, I blog.
 
-By doing deep dives into topics I’m learning, I force my brain to connect ideas—to *fire neurons together*.
+By doing deep dives into topics I’m learning, I force my brain to connect ideas—to _fire neurons together_.
 
 > “Neurons that fire together, wire together.”  
 > — Norman Doidge [^f1]
@@ -110,7 +110,7 @@ By doing deep dives into topics I’m learning, I force my brain to connect idea
 In simpler terms:  
 If I can break something down to its most **granular level** and then teach it, I’ll retain it.
 
-And writing about it *is* using the information in one sense.
+And writing about it _is_ using the information in one sense.
 
 ---
 
@@ -129,11 +129,11 @@ Most posts on my blog will fall into one of the following categories:
 Yes—there are plenty of blogs that already cover these topics.
 
 But this one?  
-This is primarily for *me*.
+This is primarily for _me_.
 
-I need to revisit concepts. Explain them in different ways. Ask and answer the right questions. Learn them again—*properly*.
+I need to revisit concepts. Explain them in different ways. Ask and answer the right questions. Learn them again—_properly_.
 
-I’ll also be documenting **Capture The Flag (CTF)** challenges and ethical hacking practices to better understand *how* systems are secured—and how they fail.
+I’ll also be documenting **Capture The Flag (CTF)** challenges and ethical hacking practices to better understand _how_ systems are secured—and how they fail.
 
 ---
 
@@ -148,4 +148,4 @@ Let me know you're thoughts!
 
 ### Footnote
 
-[^f1]: [Norman Doidge – *The Brain That Changes Itself*](https://www.waterstones.com/book/the-brain-that-changes-itself/norman-doidge/9780141038872)
+[^f1]: [Norman Doidge – _The Brain That Changes Itself_](https://www.waterstones.com/book/the-brain-that-changes-itself/norman-doidge/9780141038872)
