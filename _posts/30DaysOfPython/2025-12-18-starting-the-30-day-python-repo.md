@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Completing The 30 Days Of Python Course by Asabeneh
+title: Doing The 30 Days Of Python Course by Asabeneh
 description: >-
   I wanted to go through the content several times and post all about it. Here I'll do my best to explain each topic...
 author: Sheikh Hussain
 date: 2025-12-18 08:00:00 +0000
 categories: [Python Course, 30 Days of Python - Asabeneh]
-tags: [python, programming, course, 30days, complete]
+tags: [python, programming, course, 30days]
 pin: false
 math: false
 mermaid: false
